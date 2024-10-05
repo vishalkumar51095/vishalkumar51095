@@ -5,7 +5,6 @@
 ---
 
 ## 📞 Contact Information
-- **Phone:** +91-8299308385
 - **Email:** [vishalkumar51095@gmail.com](mailto:vishalkumar51095@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vishalkumar51095](https://www.linkedin.com/in/vishalkumar51095)
 - **GitHub:** [github.com/vishalkumar51095](https://github.com/vishalkumar51095)
