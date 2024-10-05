@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vishal Kumar
 
-🌍 Based in **Noida, UP**, I’m a passionate Software Developer with **2.5 years of experience** in **Java** and **Spring Boot**.
+🌍 Based in **New Delhi**, I’m a passionate Software Developer with **2.7 years of experience** in **Java** and **Spring Boot**.
 
 ---
 
