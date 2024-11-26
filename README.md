@@ -13,7 +13,7 @@ A passionate Full Stack Developer having an experience of building Websites with
     <a href="#contact" style="padding:10px;">
         <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
-    <a href="Resume.pdf" style="padding:5px;">
+    <a href="VishalKumarResume.pdf" style="padding:5px;">
         <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
 </div>
