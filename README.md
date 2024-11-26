@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="vishal.png" />
 
 <div style="margin:50px; padding:50px;">
-    <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Keerti</h1>
+    <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vishal</h1>
     <p align="center">
         <b>I'm a Software Developer from India.</b><br>
         Passionate and driven Full Stack Developer, eager to make an impact in the dynamic world of web development. 🚀<br><br/>
