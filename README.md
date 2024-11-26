@@ -1,62 +1,63 @@
 <img align="right" alt="GIF" src="vishal.png" />
 
 <div style="margin:50px; padding:50px;">
-    <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vishal</h1>
-    <p align="center">
-        <b>I'm a Software Developer from India.</b><br>
-        Passionate and driven Full Stack Developer, eager to make an impact in the dynamic world of web development. 🚀<br><br/>
-        I love solving complex problems and transforming them into simple, intuitive, and beautiful user interfaces. With a solid background in building websites and web applications using technologies like HTML, CSS, Bootstrap, JavaScript, PHP, Python, and other modern frameworks, I'm always ready to learn and explore more.
-    </p>
+<h1 align="center" >Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Keerti</h1>
+<p align="center">
+<b>I am a Software Developer from India.</b> <br>
+Passionate and motivated 🚀 Full Stack Developer eager to kickstart a successful career in the dynamic world of web development.<br><br/>
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
+A passionate Full Stack Developer having an experience of building Websites with HTML, CSS, Bootstrap, JavaScript, PHP, Python and some other cool libraries and frameworks.</p>
 
-    <center>
-        <div style="margin-top:20px;">
-            <a href="#contact" style="padding:10px;">
-                <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=white">
-            </a>
-            <a href="keerti_resume.pdf" style="padding:5px;">
-                <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=white">
-            </a>
-        </div>
-    </center>
+<center>
+    <div align="center" style="margin-top:20px;">
+    <a href="#contact" style="padding:10px;">
+        <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=white">
+    </a>
+    <a href="keerti_resume.pdf" style="padding:5px;">
+        <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=white">
+    </a>
 </div>
+</center>
+ 
+</div>
+
+
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently working with **Java** and exploring the exciting field of Full Stack Development.
+- 🌱 I’m currently working in  **Java**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://vishalkumar51095.github.io/Portfolio-Website/)**
+
+- 💬 Ask me about anything, I am happy to help.
+
+- 📫 How to reach me **vishalkumar51095@gmail.com**
+
+- 🔭 I’m currently working on <b>Velocis Systems Private Limited!</b>
   
-- 👨‍💻 Check out my work and projects on my **[Portfolio](https://vishalkumar51095.github.io/Portfolio-Website/)**.
+- 👯 I’m looking to collaborate on <b>cool project.</b>
+  
+- 💬 Ask me about <b>Full Stack</b>.<br/>
 
-- 💬 Feel free to reach out or ask me about anything – I'm happy to help!
-
-- 📫 You can reach me at **vishalkumar51095@gmail.com**.
-
-- 🔭 Currently working at **Velocis Systems Private Limited**.
-
-- 👯 Looking to collaborate on innovative projects that challenge and inspire.
-
-- ⚡ Fun Fact: **I’m an avid gamer** and always up for a challenge!
-
+- ⚡ Fun fact **I play games.**
+  
 <br>
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkumar51095&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="vishalkumar51095" /></p>
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar51095&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="vishalkumar51095" /></p>
 <br>
 
-<p><a href="https://github.com/vishalkumar51095/github-readme-stats"><img alt="Vishal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar51095&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p><a href="https://github.com/vishalkumar51095/github-readme-stats"><img alt="Vishal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar51095&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
 <br>
 
 ## 🏆 GitHub Trophies
-
-<p align="left">
-    <a href="https://github.com/vishalkumar51095/">
-        <img src="https://github-profile-trophy.vercel.app/?username=vishalkumar51095&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank=SSS,SS,S,A,B,C&title=Repos,Followers,Commits,Issues,PullRequests&column=7&margin-w=15&margin-h=15" alt="vishalkumar51095" />
-    </a>
-</p>
+<p align="left"> <a href="https://github.com/vishalkumar51095/"><img src="https://github-profile-trophy.vercel.app/?username=vishalkumar51095&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank=SSS,SS,S,A,B,C&title=Repos,Followers,Commits,Issues,PullRequests&column=7&margin-w=15&margin-h=15" alt="vishalkumar51095" /></a> </p>
 <br>
+
 
 ## 🕸️ Web Development
 
@@ -66,6 +67,9 @@
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
+
 
 ## 🍧 Design Tools
 
@@ -74,46 +78,106 @@
 
 ## ⚙️ Backend Development
 
+
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
+[![Redis](https://img.shields.io/badge/laravel-%23DD0031.svg?style=for-the-badge&logo=laravel&logoColor=white "Laravel")][repo]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
-[![Django](https://img.shields.io/badge/django-yellow?style=for-the-badge&logo=django&logoColor=white "Django")][repo]
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)][repo]
+[![](https://img.shields.io/badge/django-yellow?style=for-the-badge&logo=django&logoColor=white)][repo]
+
 
 ## 📅 Databases
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLite")][repo]
+[![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")][repo]
 
-## 🛠️ Developer Tools
+
+
+## 🛠️ Developers Tools
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
-[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
+[![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo]
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo]
+>
+
 
 ## 📄 Code Editors & IDES
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "VS Code")][repo]
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo]
+
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo]
 
 ## 🌐 Browsers
 
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)][repo]
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](repo)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")][repo]
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+
 
 ## ⭕ Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+
+## ☃️ My Learning Resources
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
+[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)][mdn]
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
+![Codecademy](https://img.shields.io/badge/Codecademy-000000.svg?&style=for-the-badge&logo=Codecademy&logoColor=green)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
+![coursera](https://img.shields.io/badge/coursera-317cee?style=for-the-badge&logo=coursera&logoColor=white)
+[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+
+[medium]: https://medium.com/
+[github]: https://github.com/
+[google]: https://www.google.com
+[mdn]: https://developer.mozilla.org/en-US/
+[wiki]: https://en.wikipedia.org/wiki/Main_Page
+[udemy]: https://www.udemy.com/
+[gog]: https://www.geeksforgeeks.org/
+[fcc]: https://www.freecodecamp.org/
+[sof]: https://stackoverflow.com/
+[repo]: https://github.com/vishalkumar51095?tab=repositories
 <hr />
 
-## Connect with me
 
+
+
+## Connect with me
 <p align="left" id="contact">
-    <a href="https://www.linkedin.com/in/vishalkumar51095"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/vishalkumar51095"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href="https://www.instagram.com/vishalkumar51095/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="https://www.youtube.com/c/VishalKumar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+<a href = "https://www.linkedin.com/in/vishalkumar51095"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/vishalkumar51095"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/vishalkumar51095/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/vishalkumar51095"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://codepen.io/vishalkumar51095"><img src="https://img.icons8.com/fluent/48/000000/codepen.png"/></a>
+<a href = "https://github.com/vishalkumar51095"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
 </p>
 
-<br>
+## ❤ Views and Followers
+#### Thanks for checking out my GitHub Profile! 🙏
+![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+![](https://img.shields.io/github/followers/vishalkumar51095?logo=github&style=for-the-badge)
+<a href="https://github.com/vishalkumar51095/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/username=vishalkumar51095&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/vishalkumar51095/github-profile-views-counter
+
+
+
+
